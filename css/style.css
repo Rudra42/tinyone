@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*
+@font-face{
+    font-family:PTC55F.ttf;
+    src: url(../fonts/PTC55F.ttf);
+}
+*/
+/*font-family: 'PT Sans', sans-serif;*/
+header{
+    min-height: 740px;
+    background-color: #fcdb00;
+    overflow: hidden;
+}
+#service {
+     min-height: 740px;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+#contact {
+    min-height: 795px;
+    background-color: #010101;
+    overflow: hidden;
+}
+
+.wrapper {
+    width: 944px;
+    height: 46px;
+    margin: 54px auto;
+}
+
+.logo {
+    width: 156px;
+    height: 46px;
+    float: left;
+}
+.logo img{
+    float: left;
+}
+
+
+
+.tiny {
+    font-size: 30px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+}
+
+.tiny h1{
+    
+}
+
+.nav_bar {
+}
+.nav_bar ul{
+    float: right;
+}
+.nav_bar ul li{
+    list-style: none;
+    float: left;
+    margin-top: 8px;
+}
+
+.nav_bar ul li a{
+    text-decoration: none;
+    display: block;
+    color: #010101;
+    padding:  0 32px;
+    font-size: 22px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+
+}
+
+.wrapper_2 {
+    width: 900px;
+    height: 475px;
+    margin: 0 auto;
+}
+
+.left {
+    width: 410px;
+    height: 295px;
+    float: left;  
+    margin-top: 41px;
+}
+.left h1{
+    font-size: 32px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+}
+
+.right {
+     width: 326px;
+    height: 472px;
+    float: right;
+     margin-right: 25px;
+}
+
+.common {
+       font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+     color: #3f433d;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+.common_1 {
+       font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+   color: #82793e;
+    margin-bottom: 30px;
+   
+}
+
+.cmn_sin{
+    width: 55px;
+    height: 55px;
+    float: left;
+    padding: 0 8px;
+}
+
+.common_img {
+   width: 300px;
+}
+
+.wrapper_3 {
+    width: 740px;
+    height: 95px;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 65px;
+}
+.wrapper_3 h1{
+    text-align: center;
+}
+
+.wrapper_4 {
+     width: 914px;
+    height: 344px;
+    margin: 0 auto;
+}
+
+.single_service {
+     width: 304px;
+    height: 160px;
+    float: left;
+    margin-bottom: 72px;
+}
+
+.icon {
+    width: 50px;
+    height: 52px;
+    float: left;
+}
+
+.detail {
+    width: 225px;
+    height: 122px;
+    float: right;
+    
+}
+
+.detail h1{
+        font-size: 22px;
+    font-family: 'PT Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
+.common_2{
+      font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+   color: #676767;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+.wrapper_5 {
+    width: 810px;
+    height: 368px;
+    margin: 0 auto;
+}
+.wrapper_5 h1{
+    font-size: 32px;
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 90px;
+    color: #fcdb00;
+    text-align: center;
+}
+.com_img {
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.btn{
+        border: none;
+    padding: 8px 32px;
+    border-radius: 4px;
+    margin-left: 6px;
+    background-color: #fcdb00;
+}
+.view{
+        border: none;
+    padding: 10px 147px;
+    border-radius: 5px;
+    margin-left: 106px;
+}
+.img_wrapper{
+    width: 260px;
+    height: 255px;
+    margin: 0 auto;
+    margin-top: 75px;
+    margin-bottom: 125px;
+}
+.wrapper_6 {
+     width: 860px;
+    height: 122px;
+    margin: 0 auto;
+}
+
+
+.last_left {
+    width: 204px;
+    height: 132px;
+    float: left;
+}
+
+.part_1 {
+    font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+   color: #ffffff;
+}
+
+.part_2 {
+    font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+   color: #ffffff;
+}
+
+.part_3 {
+    font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+   color: #ffffff;
+}
+
+.last_right {
+     width: 600px;
+    height: 132px;
+    float: right;
+}
+
+.single_last {
+    width: 95px;
+    height: 95px;
+    float: left;
+     padding: 0px 21px;
+}
+
+.common_last {
+    font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+   color: #ffffff;
+}
